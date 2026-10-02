@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+*.db
+welcome_bg_*.png
