@@ -1,5 +1,27 @@
+# Environment
 .env
+.env.local
+*.env
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 *.db
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploaded
 welcome_bg_*.png
